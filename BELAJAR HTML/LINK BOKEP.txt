@@ -1,0 +1,24 @@
+NGAPAIN DI KLIK INIKAN CUMAN CATATAN
+
+<tittle>judul paling atas</tittle>
+biasanya diisi didalam <head>...</head>
+
+<P>paragraf</P>
+untuk  menentukan paragraf
+
+<H(angka 1-6)> Judul pertama </H(1-6>
+angka 1-6 maksudnya ukuran font yang ditentukan dari angka 1 sampai 6
+contoh : <h2>Bagaimana cara menjadi orang keren tanpa usaha modal rebahan No Root work 1000000%?</h2>
+
+<Ol>
+<li>teks list</li>
+</Ol>
+list yang terorder dalam bentuk angka
+
+contoh : <ol>
+                    <li>Download Tiktok </li>
+                    <li>Daftar akun Tiktok (yang udah punya akun Tiktok sekip ajah)</li>
+                    <li>Masuk ke Kolom Pencarian (Gambar kaca pembesar disudut kanan atas dek</li>
+                    <li>Ketik "@ellzyshizui"</i (kutipnya gausah ditulis rek)</li>
+                    <li>Klik Tombol Ikuti (sampe LCD HP kamu retak) Sehingga tombol "Ikuti"< menjadi "Mengikuti"</li>
+         </ol>
